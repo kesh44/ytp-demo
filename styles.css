@@ -153,6 +153,10 @@ img {
 	display: none;
 }
 
+.stat {
+    position: fixed;
+}
+
 @media(orientation: portrait){
 	.alert {
 		display: flex;
