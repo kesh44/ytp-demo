@@ -155,6 +155,7 @@ img {
 
 .stat {
     position: fixed;
+    background-color: #000;
 }
 
 @media(orientation: portrait){
